@@ -1,9 +1,6 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:quirkpath/quirkpathui.dart';
-import 'package:quirkpath/textcustom/textoscustom.dart';
 
 class AcademiaUA extends StatelessWidget {
   @override
